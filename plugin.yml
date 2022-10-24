@@ -1,0 +1,5 @@
+name: QuantekkRelays
+version: 0.1
+main: me.connor.quantekk.RelayBlocker
+author: ThatBritishGuy_
+description: No relays/collectors in shop
